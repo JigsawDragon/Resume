@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1757617968.54836 "/home/siddharth-iyer/Documents/Resume/Sid's Resume.tex" "Sid's Resume.pdf" "Sid's Resume" 1757617968.95126 0
+["pdflatex"] 1757716924.43543 "/home/siddharth-iyer/Documents/Resume/Sid's Resume.tex" "Sid's Resume.pdf" "Sid's Resume" 1757716924.84465 0
   "/etc/texmf/web2c/texmf.cnf" 1757615585.40111 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/siddharth-iyer/Documents/Resume/Sid's Resume.tex" 1757617968.38108 8980 a8f6f1dbd3a4c31ff576df1f9c2ab22d ""
+  "/home/siddharth-iyer/Documents/Resume/Sid's Resume.tex" 1757716924.27143 9044 585330ab22d3e79feb9f93f0631a3796 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -89,9 +89,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1757615597.96932 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1757615664 8215082 3b55dd0f0b195e486dbe924655a0eb44 ""
-  "Sid's Resume.aux" 1757617968.90407 673 87f7cc5c47434bbc0db64ec5bc480cd4 "pdflatex"
-  "Sid's Resume.out" 1757617968.90507 390 8178769a591dae54593be5dc5893bd68 "pdflatex"
-  "Sid's Resume.tex" 1757617968.38108 8980 a8f6f1dbd3a4c31ff576df1f9c2ab22d ""
+  "Sid's Resume.aux" 1757716924.79945 673 87f7cc5c47434bbc0db64ec5bc480cd4 "pdflatex"
+  "Sid's Resume.out" 1757716924.79945 390 8178769a591dae54593be5dc5893bd68 "pdflatex"
+  "Sid's Resume.tex" 1757716924.27143 9044 585330ab22d3e79feb9f93f0631a3796 ""
   (generated)
   "Sid's Resume.aux"
   "Sid's Resume.log"
