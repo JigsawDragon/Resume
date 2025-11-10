@@ -18,6 +18,7 @@
 \usepackage{fancyhdr}
 \usepackage[english]{babel}
 \usepackage{tabularx}
+\usepackage{graphicx}
 \input{glyphtounicode}
 
 
@@ -134,53 +135,47 @@
 \section{Experience}
 \resumeSubHeadingListStart
     \resumeSubheading
-      {Full Stack Software Developer \textnormal{\emph{AngularJS, .NET Core, SSMS, Docker, Git}}}{ May 2025 -- August 2025}
+      {Full Stack Software Developer $|$ \textnormal{\emph{AngularJS, .NET Core, SSMS, Git}}}{ May 2025 -- August 2025}
       {Axiom Group Inc.}{Aurora, ON}
       \resumeItemListStart
-        \resumeItem{Deployed and maintained new features used by over \textbf{200+ employees} in an \textbf{ERP system (Prism).}}
-        \resumeItem{Migrated ERP from Angular v8 → v19, \textbf{cutting build times by over 20s} in live production environments.}
-        \resumeItem{Scaled backend services using \textbf{Node.js, Docker}, and \textbf{SQL Server (SSMS)}.}
-        \resumeItem{Communicated with team leads to scope out and deliver new ERP features in line with workflow requirements.}
-        \resumeItem{Debugged and tested across multiple languages and frameworks, ensuring production stability.}
-      \resumeItemListEnd
+        \resumeItem{Deployed and maintained new features used by \textbf{200+ employees} in an \textbf{ERP system (Prism)}.}
+        \resumeItem{Led Angular migration \textbf{from v8 to v19}, reducing live production build times by \textbf{20+ seconds}.}
+        \resumeItem{Optimized backend \textbf{RESTful APIs} with \textbf{Node.js} and \textbf{SSMS}, for improved querying speeds.}
+        \resumeItem{Collaborated with team leads and specialists to deliver \textbf{15+ feature requests} tailored to their daily operations.}
+    \resumeItemListEnd
 \resumeSubHeadingListEnd
 %-----------PROJECTS-----------
 \section{Projects}
 \resumeSubHeadingListStart
+    % {\includegraphics[height=12pt, width=12pt]{assets/githubnowordslogo.png} Link}%
       \resumeProjectHeading
-          {\textbf{Full Stack Task Tracker} $|$ \emph{AngularJS, SQL, .NET Core, EF Core, Docker}}{\href{https://github.com/JigsawDragon/task-tracker}{\underline{Project Link}}}
-          \resumeItemListStart
-            \resumeItem{Built a full-stack task tracker used by peers, enabling \textbf{100+} tasks tracked with realtime updates.}
-            \resumeItem{Implemented a responsive and user-friendly interface using \textbf{AngularJS} for seamless task management.}
-            \resumeItem{Created an \textbf{API using .NET Core and Entity Framework Core} to handle backend task operations.}
-            \resumeItem{Containerized the application with \textbf{Docker}, ensuring consistent environments across development and production.}
-          \resumeItemListEnd
-
-      \resumeProjectHeading
-          {\textbf{Pathway AI Tool} $|$ \emph{Next.js, HTML, CSS, Javascript, Typescript, OpenAI, Chromadb, Git}}{\href{https://github.com/49M/Pathway_App}{\underline{Project Link}}}
-          \resumeItemListStart
-            \resumeItem{Developed a tool collaboratively for course recommendations using \textbf{OpenAI prompts} and embeddings models.}
-            \resumeItem{Used \textbf{Python web-scraping} with \textbf{BeautifulSoup} to scrape a university website for course information.}
-            \resumeItem{Engineered prompts with a Chromadb embeddings model to align OpenAI responses with user queries.}
-            \resumeItem{Improved efficiency by \textbf{reducing course search time} by an estimated \textbf{70\%} compared to manual browsing.}
-          \resumeItemListEnd
-
-      \resumeProjectHeading
-          {\textbf{Dr.Mario in Assembly} $|$ \emph{Assembly, MIPS Architecture, }}{\href{https://github.com/JigsawDragon/dr-mario-assembly}{\underline{Project Link}}}
-          \resumeItemListStart
-            \resumeItem{Created a full functioning Dr.Mario game on Assembly with \textbf{MIPS} instruction set.Implemented complete Dr. Mario puzzle game mechanics in \textbf{MIPS} assembly language with \textbf{2000+ lines} of optimized code.}
-            \resumeItem{Built fully functional \textbf{game physics} including pill rotation, gravity simulation, and chain reactions.}
-            \resumeItem{Designed custom memory management system for game state, animations, and sounds within limited resources.}
-            \resumeItem{Minimized memory footprint by implementing custom data structures and efficient \textbf{register allocation}.}
-
-          \resumeItemListEnd
-
-      \resumeProjectHeading
-        {\textbf{2D Pathfinder RPG} $|$ \emph{Unity, C\#, .NET Framework}}{\href{https://github.com/JigsawDragon/2DUnityRPG}{\underline{Project Link}}}
+      {\textbf{Pathway AI Tool} $|$ \emph{Next.js, HTML, CSS, Javascript, Typescript, OpenAI, Chromadb, Git}}{\href{https://github.com/49M/Pathway_App}{\underline{Project Link}}}
         \resumeItemListStart
-          \resumeItem{Programmed a \textbf{custom pathfinding algorithm} based on complex templates.}
-          \resumeItem{Developed character movement and collision mechanics using \textbf{Unity's Rigidbody2D and Physics System}.}
-          \resumeItem{Utilized Unity’s \textbf{Tilemap Editor} to design interactive 2D environments with \textbf{layered assets}.}
+          \resumeItem{Developed a tool collaboratively for course recommendations and scheduling using \textbf{OpenAI prompts}.}
+          \resumeItem{Used \textbf{Python web-scraping} with \textbf{BeautifulSoup} to scrape a university website for course information.}
+          \resumeItem{Engineered prompts to a \textbf{Chromadb embeddings model} to align OpenAI responses with user queries.}
+          \resumeItem{Improved efficiency by \textbf{reducing course search time} by an estimated \textbf{70\%} compared to manual browsing.}
+        \resumeItemListEnd
+
+      \resumeProjectHeading
+      {\textbf{Dr.Mario in Assembly} $|$ \emph{Assembly, MIPS Architecture}}{\href{https://github.com/JigsawDragon/dr-mario-assembly}{\underline{Project Link}}}
+        \resumeItemListStart
+          \resumeItem{Implemented complete Dr.Mario puzzle game mechanics in \textbf{MIPS assembly} with \textbf{2000+ lines} of optimized code, featuring pill rotation, gravity simulation, and chain reaction physics.}
+          \resumeItem{Practiced efficient register allocation for game state and animations within limited hardware constraints.}
+        \resumeItemListEnd
+      
+      \resumeProjectHeading
+      {\textbf{Full Stack Task Tracker} $|$ \emph{AngularJS, MySQL, .NET Core, Docker}}{\href{https://github.com/JigsawDragon/task-tracker}{\underline{Project Link}}}
+        \resumeItemListStart
+          \resumeItem{Built a full-stack task tracker with \textbf{AngularJS} enabling several peers to manage \textbf{150+ tasks}.}
+          \resumeItem{Architected RESTful API using .NET Core and Entity Framework with Docker containerization for deployment}
+        \resumeItemListEnd
+      
+      \resumeProjectHeading
+      {\textbf{2D Pathfinder RPG} $|$ \emph{Unity, C\#, .NET Framework}}{\href{https://github.com/JigsawDragon/2DUnityRPG}{\underline{Project Link}}}
+        \resumeItemListStart
+          \resumeItem{Integrated \textbf{A* pathfinding} with \textbf{Unity Tilemap} system, enabling intelligent pathing across large tilemaps.}
+          \resumeItem{Implemented \textbf{Rigidbody2D physics} for smooth collision detection across complex geometric environments.}
          \resumeItemListEnd  
 \resumeSubHeadingListEnd
   
@@ -189,11 +184,11 @@
 \section{Technical Skills}
  \begin{itemize}[leftmargin=0.15in, label={}]
     \small{\item{
-     \textbf{Languages}{: Python, Java, C\#, HTML, CSS, Javascript/Typescript, C/C++, Assembly, SQL} \\
-     \textbf{Frameworks}{:  AngularJS, React, MSSQL, .NET, Flask, Linux} \\
-     \textbf{Developer Tools}{: Node,js, Git, Vim, Visual Studio, Docker, Unity, Agile, NoSQL} \\
-
-     }}
+    \textbf{Languages}{: Python, Java, HTML, CSS, Javascript/Typescript, SQL, C, C++, C\#, Assembly} \\
+    \textbf{Frameworks}{:  AngularJS, React, MSSQL, MySQL, .NET, Flask, NumPy} \\
+    \textbf{Developer Tools}{: Git, Node.js, Visual Studio, Docker, Vim, Unity, NoSQL, Linux} \\
+    \textbf{Methodologies}{: Agile/Scrum, RESTful API Design, CI/CD}
+    }}
  \end{itemize}
 
 
