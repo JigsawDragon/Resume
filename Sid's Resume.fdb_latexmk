@@ -1,7 +1,9 @@
 # Fdb version 4
-["pdflatex"] 1762741839.0725 "c:/Users/siyer/Resume/Sid's Resume.tex" "Sid's Resume.pdf" "Sid's Resume" 1762741840.44178 0
+["pdflatex"] 1762797624.17748 "c:/Users/siyer/Resume/Sid's Resume.tex" "Sid's Resume.pdf" "Sid's Resume" 1762797626.35949 0
   "C:/Users/siyer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1752543315 168860 92f301f86241610fcc4a461739092f81 ""
+  "C:/Users/siyer/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1736789825 11548 1ceb76ef78e4d6d4442be88957b9f673 ""
   "C:/Users/siyer/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1728838041 11948198 fd3fa65620897455d4bfe1878927e330 ""
+  "C:/Users/siyer/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
   "C:/Users/siyer/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "C:/Users/siyer/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Users/siyer/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmcsc10.tfm" 1136765053 1300 63a6111ee6274895728663cf4b4e7e81 ""
@@ -88,10 +90,10 @@
   "C:/Users/siyer/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty" 1718356376 7243 e5dac1240636811edb77568b81818372 ""
   "C:/Users/siyer/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty" 1718356376 7532 d2e1111e17bfebb1607d8ffa779705ec ""
   "C:/Users/siyer/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "Sid's Resume.aux" 1762741840 711 d776b8cadf0903cda9f4356d8076bd81 "pdflatex"
-  "Sid's Resume.out" 1762741840 390 8178769a591dae54593be5dc5893bd68 "pdflatex"
-  "Sid's Resume.tex" 1762741838 8026 bbb8437e1a36b21122edf81db3ab5625 ""
-  "c:/Users/siyer/Resume/Sid's Resume.tex" 1762741838 8026 bbb8437e1a36b21122edf81db3ab5625 ""
+  "Sid's Resume.aux" 1762797626 711 d776b8cadf0903cda9f4356d8076bd81 "pdflatex"
+  "Sid's Resume.out" 1762797626 390 8178769a591dae54593be5dc5893bd68 "pdflatex"
+  "Sid's Resume.tex" 1762797622 8652 899f00bc5e11e1e53964317781f99963 ""
+  "c:/Users/siyer/Resume/Sid's Resume.tex" 1762797622 8652 899f00bc5e11e1e53964317781f99963 ""
   (generated)
   "Sid's Resume.aux"
   "Sid's Resume.log"
