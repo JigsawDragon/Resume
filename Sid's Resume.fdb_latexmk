@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1762797624.17748 "c:/Users/siyer/Resume/Sid's Resume.tex" "Sid's Resume.pdf" "Sid's Resume" 1762797626.35949 0
-  "C:/Users/siyer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1752543315 168860 92f301f86241610fcc4a461739092f81 ""
+["pdflatex"] 1762840345.7771 "c:/Users/siyer/Resume/Sid's Resume.tex" "Sid's Resume.pdf" "Sid's Resume" 1762840347.35383 0
+  "C:/Users/siyer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1762840193 168860 92f301f86241610fcc4a461739092f81 ""
   "C:/Users/siyer/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1736789825 11548 1ceb76ef78e4d6d4442be88957b9f673 ""
   "C:/Users/siyer/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1728838041 11948198 fd3fa65620897455d4bfe1878927e330 ""
   "C:/Users/siyer/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1000.tfm" 993062508 1436 c7f957a372ef2fbe93c0982f96625e12 ""
@@ -85,15 +85,16 @@
   "C:/Users/siyer/AppData/Local/Programs/MiKTeX/tex/latex/preprint/fullpage.sty" 1369148873 2867 05b418f78b224ec872f5b11081138605 ""
   "C:/Users/siyer/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/siyer/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
+  "C:/Users/siyer/AppData/Local/Programs/MiKTeX/tex/latex/setspace/setspace.sty" 1670403145 22490 8cac309b79a4c53a4ffce4b1b07aead0 ""
   "C:/Users/siyer/AppData/Local/Programs/MiKTeX/tex/latex/titlesec/titlesec.sty" 1736608268 48766 87a17a4ef312a39cd43896e34a679a56 ""
   "C:/Users/siyer/AppData/Local/Programs/MiKTeX/tex/latex/tools/array.sty" 1718356376 14067 1383bd6ee23ab18ae0e796155404deb7 ""
   "C:/Users/siyer/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty" 1718356376 7243 e5dac1240636811edb77568b81818372 ""
   "C:/Users/siyer/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty" 1718356376 7532 d2e1111e17bfebb1607d8ffa779705ec ""
   "C:/Users/siyer/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "Sid's Resume.aux" 1762797626 711 d776b8cadf0903cda9f4356d8076bd81 "pdflatex"
-  "Sid's Resume.out" 1762797626 390 8178769a591dae54593be5dc5893bd68 "pdflatex"
-  "Sid's Resume.tex" 1762797622 8652 899f00bc5e11e1e53964317781f99963 ""
-  "c:/Users/siyer/Resume/Sid's Resume.tex" 1762797622 8652 899f00bc5e11e1e53964317781f99963 ""
+  "Sid's Resume.aux" 1762840347 711 d776b8cadf0903cda9f4356d8076bd81 "pdflatex"
+  "Sid's Resume.out" 1762840347 390 8178769a591dae54593be5dc5893bd68 "pdflatex"
+  "Sid's Resume.tex" 1762840344 8693 3898dcfa031ed0e8fd722dfe3fecca19 ""
+  "c:/Users/siyer/Resume/Sid's Resume.tex" 1762840344 8693 3898dcfa031ed0e8fd722dfe3fecca19 ""
   (generated)
   "Sid's Resume.aux"
   "Sid's Resume.log"
