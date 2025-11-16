@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1763265569.25045 "c:/Users/siyer/Documents/Resume/Sid's Resume.tex" "Sid's Resume.pdf" "Sid's Resume" 1763265570.46503 0
+["pdflatex"] 1763266544.11471 "c:/Users/siyer/Documents/Resume/Sid's Resume.tex" "Sid's Resume.pdf" "Sid's Resume" 1763266545.25052 0
   "C:/Users/siyer/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1763191038 80937 91001db6d4ae332437b4b739862cda02 ""
   "C:/Users/siyer/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcbx1000.pk" 1763191042 12124 fea6767e4d53d3a77a579f0555a6af55 ""
   "C:/Users/siyer/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1763241638 13333512 629e5fb37ac023b68bdee407ee2dc3a9 ""
@@ -87,11 +87,11 @@
   "C:/Users/siyer/AppData/Local/Programs/MiKTeX/tex/latex/tools/tabularx.sty" 1761901070 7243 a2c17f18e2c9b702b84fad03d5f9c78b ""
   "C:/Users/siyer/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty" 1761901070 7532 26d26e9d8f2ca784270d5da8ec7d102b ""
   "C:/Users/siyer/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "Sid's Resume.aux" 1763265570 711 d776b8cadf0903cda9f4356d8076bd81 "pdflatex"
-  "Sid's Resume.out" 1763265570 390 8178769a591dae54593be5dc5893bd68 "pdflatex"
-  "Sid's Resume.tex" 1763265568 8676 ad6008cda5700251addce4a84a73aa94 ""
+  "Sid's Resume.aux" 1763266545 711 d776b8cadf0903cda9f4356d8076bd81 "pdflatex"
+  "Sid's Resume.out" 1763266545 390 8178769a591dae54593be5dc5893bd68 "pdflatex"
+  "Sid's Resume.tex" 1763266543 8676 13ce9653e408e10e848ed2dfdc19bd72 ""
   "assets/githubnowordslogo.png" 1762876741 7249 eba1af9955fb43761c21eed1912e5660 ""
-  "c:/Users/siyer/Documents/Resume/Sid's Resume.tex" 1763265568 8676 ad6008cda5700251addce4a84a73aa94 ""
+  "c:/Users/siyer/Documents/Resume/Sid's Resume.tex" 1763266543 8676 13ce9653e408e10e848ed2dfdc19bd72 ""
   (generated)
   "Sid's Resume.aux"
   "Sid's Resume.log"
