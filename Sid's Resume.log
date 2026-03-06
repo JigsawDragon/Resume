@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.27)  27 JAN 2026 18:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.27)  6 MAR 2026 01:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -371,22 +371,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 130.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 130.
-<assets/githublogo.png, id=24, 562.1pt x 562.1pt>
+<assets/githublogo.png, id=28, 562.1pt x 562.1pt>
 File: assets/githublogo.png Graphic file (type png)
 <use assets/githublogo.png>
-Package pdftex.def Info: assets/githublogo.png  used on input line 163.
+Package pdftex.def Info: assets/githublogo.png  used on input line 161.
 (pdftex.def)             Requested size: 11.99913pt x 11.99913pt.
 File: assets/githublogo.png Graphic file (type png)
 <use assets/githublogo.png>
-Package pdftex.def Info: assets/githublogo.png  used on input line 173.
-(pdftex.def)             Requested size: 11.99913pt x 11.99913pt.
-File: assets/githublogo.png Graphic file (type png)
-<use assets/githublogo.png>
-Package pdftex.def Info: assets/githublogo.png  used on input line 183.
-(pdftex.def)             Requested size: 11.99913pt x 11.99913pt.
-File: assets/githublogo.png Graphic file (type png)
-<use assets/githublogo.png>
-Package pdftex.def Info: assets/githublogo.png  used on input line 192.
+Package pdftex.def Info: assets/githublogo.png  used on input line 171.
 (pdftex.def)             Requested size: 11.99913pt x 11.99913pt.
 
 
@@ -406,20 +398,20 @@ L3 programming layer <2025-12-24>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `"Sid's Resume".out' has not changed.
-(rerunfilecheck)             Checksum: 8178769A591DAE54593BE5DC5893BD68;390.
+(rerunfilecheck)             Checksum: F498AA3D2165F745F094B3F066FE8F49;430.
  ) 
 Here is how much of TeX's memory you used:
- 13370 strings out of 467871
- 218367 string characters out of 5413984
- 700694 words of memory out of 5000000
- 41995 multiletter control sequences out of 15000+600000
- 640662 words of font info for 121 fonts, out of 8000000 for 9000
+ 13364 strings out of 467871
+ 218273 string characters out of 5413984
+ 693694 words of memory out of 5000000
+ 41993 multiletter control sequences out of 15000+600000
+ 640243 words of font info for 118 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,79p,1068b,473s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\Siddharth Iyer\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/Siddharth Iyer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Siddharth Iyer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Siddharth Iyer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Siddharth Iyer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Siddharth Iyer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Siddharth Iyer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Siddharth Iyer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "Sid's Resume.pdf" (1 page, 121655 bytes).
+<C:/Users/Siddharth Iyer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Siddharth Iyer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Siddharth Iyer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Siddharth Iyer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Siddharth Iyer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Siddharth Iyer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/Siddharth Iyer/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on "Sid's Resume.pdf" (1 page, 117385 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
- 6 named destinations out of 1000 (max. 500000)
- 47142 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 77 PDF objects out of 1000 (max. 8388607)
+ 7 named destinations out of 1000 (max. 500000)
+ 45102 words of extra memory for PDF output out of 51595 (max. 10000000)
 
