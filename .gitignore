@@ -1,0 +1,32 @@
+# LaTeX intermediate/build files
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.brf
+*.nav
+*.snm
+*.vrb
+
+# Latexmk files
+*.run.xml
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# VS Code (optional)
+.vscode/
+
+# Mac system files
+.AppleDouble
+.LSOverride
