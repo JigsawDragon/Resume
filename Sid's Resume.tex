@@ -145,7 +145,7 @@
 \section{Experience}
 \resumeSubHeadingListStart
   \resumeSubheading
-      {Cloud Engineer $|$ \textnormal{\emph{Azure, Power BI, Linux}}}{ Sept 2026 - Dec 2026}
+      {Cloud Engineer $|$ \textnormal{\emph{Azure, Power BI, Linux, Git}}}{ Sept 2026 - Dec 2026}
       {Scotiabank}{}
     \resumeItemListStart
       \resumeItem{Incoming Velocity Cloud Engineer supporting enterprise cloud platform services and infrastructure automation.}
@@ -158,21 +158,31 @@
     \resumeItemListStart
       \resumeItem{Deployed and maintained ERP (Prism) features \textbf{used by 200+ employees} across Canada, USA, and Mexico.}
       \resumeItem{Streamlined Angular migration from v8 to v19, reducing live production build times \textbf{by 25+ seconds}.}
-      \resumeItem{Delivered \textbf{15+ production features} in collaboration with several department leads and managers.}
-      \resumeItem{Optimized REST APIs by refining SSMS queries and implementing caching to reduce redundant database requests.}
+      \resumeItem{Collaborated with department leads and managers to \textbf{deliver 15+ production ERP features}.}
     \resumeItemListEnd
 \resumeSubHeadingListEnd
 %-----------PROJECTS-----------
 \section{Projects}
 \resumeSubHeadingListStart
+
+  \resumeProjectHeading
+    {\textbf{BigVul Vulnerability Analyzer} $|$ 
+    \href{https://github.com/chubomis/PyTorch-Code-Vulnerability-Analyzer}{\underline{Link}} $|$ 
+    \emph{Python, PyTorch, CodeBERT, scikit-learn, pandas, FastAPI, Git}}{}
+      \resumeItemListStart
+        \resumeItem{Created a code safety tool using CodeBERT, fine-tuned with PyTorch, to classify C snippets as vulnerable.}
+        \resumeItem{Fine-tuned CodeBERT on 1,200 samples, achieving a 67\% F1 score for vulnerable-code classification.}
+        \resumeItem{Reviewed the prototype with ML engineers at LipDub AI, an AI video localization startup, discussing project scalability as AI tooling or an LLM agent skill for more convenient developer use.}
+      \resumeItemListEnd
+
   \resumeProjectHeading
     {\textbf{Fly-Easy} $|$
     \href{https://github.com/HaseebSarfraz/Fly-Easy}{\underline{Link}} $|$ 
     \emph{React Native, Flask, Google Firebase, Git}}{}
       \resumeItemListStart
-        \resumeItem{Led the UI/UX and AI integration for a mobile React Native, Flask, and Firebase airport companion app.}
+        \resumeItem{Led a team of 5 people to create a mobile React Native, Flask, and Firebase airport companion app.}
         \resumeItem{Integrated Aerodatabox API for realtime airport/flight status, and Google's Places API for location tracking.}
-        \resumeItem{Built greedy constraint-solving algorithm to generate personalized itineraries with user preference and scheduling.}
+        \resumeItem{Built greedy constraint-solving algorithm to generate an event planner with user preferences and scheduling.}
         \resumeItem{Assessed efficiency of greedy algorithm using evaluation scripts against Claude Sonnet 4.5's constraint solving, receiving an average score of \textbf{83.4 versus Claude's 83}, due to \textbf{20\% better hard constraint satisfaction}.}
       \resumeItemListEnd
 
@@ -181,37 +191,28 @@
     \href{https://github.com/49M/Pathway_App}{\underline{Link}} $|$ 
     \emph{Next.js, OpenAI, Chromadb, Git}}{}
     \resumeItemListStart
-      \resumeItem{Developed a tool for course recommendations and scheduling using Next.js and OpenAI API.}
+      \resumeItem{Developed a RAG-style course planning assistant using Next.js, OpenAI API, and ChromaDB.}
       \resumeItem{Improved efficiency by \textbf{reducing course search time by an estimated 70\%} compared to manual browsing.}
-      \resumeItem{Utilized Python web-scraping with BeautifulSoup to scrape a university website for course information.}
-      \resumeItem{Modeled prompts for a Chromadb embeddings model to align OpenAI responses with user queries.}
+      \resumeItem{Utilized Python web-scraping library, BeautifulSoup, on a university website for course info, prereqs, and timings.}
+      \resumeItem{Used ChromaDB for relevant engineered prompts to improve the relevance of OpenAI-generated recommendations.}
     \resumeItemListEnd
 
-    \resumeProjectHeading
+  \resumeProjectHeading
     {\textbf{mysh.c} $|$ 
     \href{https://github.com/JigsawDragon/custom-shell-mysh}{\underline{Link}} $|$ 
-    \emph{C, Networking, Makefile, Bash Shell Scripting, Linux/Unix}}{}
+    \emph{C, TCP/IP, Makefile, Bash, Linux/Unix}}{}
       \resumeItemListStart
         \resumeItem{Engineered a lightweight Unix-like shell in C supporting process control, piping, and job management.}
         \resumeItem{Implemented TCP socket-based networking for remote execution in inter-process, inter-system communication.}
         \resumeItem{Designed robust signal handling to manage concurrent processes and prevent zombie/orphan processes.}
       \resumeItemListEnd
 
-    \resumeProjectHeading
-    {\textbf{Task Tracker} $|$ 
-    \href{https://github.com/JigsawDragon/task-tracker}{\underline{Link}} $|$ 
-    \emph{Angular, .NET Core, MySQL, Docker}}{}
-      \resumeItemListStart
-        \resumeItem{Created a full-stack task tracker with Angular, enabling several peers \textbf{to manage 50+ tasks in a month}.}
-        \resumeItem{Architected RESTful API using .NET Core and Entity Framework with Docker containerization for deployment.}
-      \resumeItemListEnd
-      
-    \resumeProjectHeading
+  \resumeProjectHeading
     {\textbf{Dr.Mario} $|$ 
     \href{https://github.com/JigsawDragon/dr-mario-assembly}{\underline{Link}} $|$ 
-    \emph{Assembly, MIPS Architecture}}{}
+    \emph{Assembly, MIPS Assembly}}{}
       \resumeItemListStart
-        \resumeItem{Programmed complete Dr.Mario puzzle game in MIPS assembly, featuring pill rotation, and collision physics.}
+        \resumeItem{Programmed complete Dr.Mario puzzle game in MIPS Assembly, featuring pill rotation, and collision physics.}
         \resumeItem{Enforced game state management, collision detection, and win condition logic within hardware constraints.}
     \resumeItemListEnd
 
@@ -222,10 +223,11 @@
 \section{Technical Skills}
  \begin{itemize}[leftmargin=0.15in, label={}]
     \small{\item{
-    \textbf{Languages}{: Python, Java, C, C++, HTML/CSS, Javascript, Typescript, SQL, C\#, Assembly} \\
-    \textbf{Frameworks/Libraries}{: Angular, Next.js, React, React Native, NumPy, .NET Core, Flask, BeautifulSoup, Unity} \\
-    \textbf{Databases}{: Microsoft SQL Server, PostgreSQL, MySQL, SQLite} \\
-    \textbf{Developer Tools}{: Git, Docker, Node.js, Vim, Linux, Jira} \\
+    \textbf{Languages}{: Python, Java, C, C++, Bash, HTML/CSS, JavaScript, TypeScript, SQL, C\#, Assembly} \\
+    \textbf{AI \& ML}{: NumPy, PyTorch, scikit-learn, OpenAI API, Gemini API, RAG, ChromaDB} \\
+    \textbf{Frameworks/Libraries}{: Angular, Next.js, React, React Native, .NET Core, Flask, BeautifulSoup} \\
+    \textbf{Databases}{: Microsoft SQL Server, PostgreSQL, pandas, MySQL, SQLite} \\
+    \textbf{Cloud \& Tools}{: Azure, Firebase, Git, Docker, Node.js, Vim, Linux, Jira} \\
     }}
  \end{itemize}
 
